@@ -1,5 +1,4 @@
 // User Interface Logic
-import './styles.css';
 import $ from 'jquery';
 import 'bootstrap';
 import './styles.css';
