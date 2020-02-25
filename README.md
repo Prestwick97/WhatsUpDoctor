@@ -69,9 +69,8 @@ _If you have any questions, comments, concerns, or suggestions, please contact m
 
 ## Commit History
 ![](https://github.com/Prestwick97/WhatsUpDoctor/blob/master/img/SC1.png)
-<img src="SC1.png"></img>
-<img src="SC2.png"></img>
-<img src="SC3.png"></img>
+![](https://github.com/Prestwick97/WhatsUpDoctor/blob/master/img/SC2.png)
+![](https://github.com/Prestwick97/WhatsUpDoctor/blob/master/img/SC3.png)
 
 ### License
 
